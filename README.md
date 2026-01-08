@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there, I'm Ayush 👋
+I'm a frontend developer learning web development from scratch.  
 
 <!--
 **ayushhmishra01/ayushhmishra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
